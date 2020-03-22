@@ -1,6 +1,6 @@
 # Mission-to-Mars Web Scraping Project
 This web scraping project involved extracting data about Mars from an established webpage, using Mongo database to store it and displaying the extracted elements in a separate webpage (index.html) or webapp locally. We have also used a dataframe to show a table on the right providing some facts about Mars. <br />
-Below is a simple diagram describing the project: <br />
+Below is a simple diagram describing the web scraping process for this project: <br />
 <br />
 ![process](https://github.com/Samira786/Mission-to-Mars/blob/master/webscrapingprocess.png)
 <br />
@@ -15,8 +15,7 @@ In order to run this app locally, we ensured that flask and mongodb were active 
 <br />
 Our html components included a Jumbotron with a Webscraping button, a featured image on the Mars website, a data table on the right and hemisphere information below. Our vision was below: <br />
 <br />
-
-
+![vision](https://github.com/Samira786/Mission-to-Mars/blob/master/Mission_to_Mars_vision.png)
 <br />
 
 And our website looked like below: <br />
