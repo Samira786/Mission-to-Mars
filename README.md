@@ -13,15 +13,15 @@ app.py, scraping.py, and index.html <br />
 <br />
 In order to run this app locally, we ensured that flask and mongodb were active on our local machine. <br />
 <br />
-Our html components included a Jumbotron with a Webscraping button, a featured image on the Mars website, a data table on the right and hemisphere information below. Our vision was below: <br />
+Our html components included a Jumbotron with a Webscraping button, a title and summary, a featured image on the Mars website, a Mars data table on the right and hemisphere information below. Our vision was below: <br />
 <br />
 ![vision](https://github.com/Samira786/Mission-to-Mars/blob/master/Mission_to_Mars_vision.png)
 <br />
 
 And our website looked like below: <br />
 <br />
-
+![final](https://github.com/Samira786/Mission-to-Mars/blob/master/Mission_to_Mars.png)
 
 <br />
-# Summary
+### Summary
 Web scraping is a fun way to extract information and display it easily for others depending on the focus of your project. In this case we are displaying information and bringing awareness about the Mission to Mars with the help of NASA’s friendly web scraping policy. It’s also amazing to see all the technology component interacting with each other to produce this great product.
