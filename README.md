@@ -7,7 +7,7 @@ Below is a simple diagram describing the web scraping process for this project: 
 <br />
 
 The technology stack to complete this project included: <br />
-Mongo Database, Beautiful Soup, Splinter, HTML/CSS, Flask Bootstrap, Python <br />
+Mongo Database, Beautiful Soup, Splinter, HTML/CSS, Flask, Python <br />
 <br />
 The files created for this project are: <br />
 app.py, scraping.py, and index.html <br />
